@@ -13,4 +13,6 @@
 
 <p align="center">I live in the ~terminal and have built my entire toolset on top of it. I use the following tools permanently and the configs can be found in my <a href="https://github.com/nerdbude/dotfiles">dotfiles</a></p>
 
-<img align="center" src="/img/terminal.png">
+<p align="center">
+<img src="/img/terminal.png">
+</p>
