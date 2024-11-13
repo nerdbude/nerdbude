@@ -11,9 +11,9 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/nix-badge?style=flat-square&logo=nixos&logoColor=%23ffffff&logoSize=auto&labelColor=6272A4&color=6272A4">
 </p>
 
-<p align="center">I live in the ~terminal and have built my entire toolset on top of it. I use the following tools permanently and the configs can be found in my <a href="https://github.com/nerdbude/dotfiles">[DOTFILES]</a>. I have some Computers around me in my private hackspace. Every machine is running NixOS - without Flakes and Homemanager at the moment - but organized modules which can be found in my <a href="https://github.com/nerdbude/NixOS-Config">[NixOS CONFIGS]</a>.</p>
+<p align="center">I live in the ~terminal and have built my entire toolset on top of it. I use the following tools permanently and the configs can be found in my <a href="https://github.com/nerdbude/dotfiles">[ DOTFILES ]</a>. I have some Computers around me in my private hackspace. Every machine is running NixOS - without Flakes and Homemanager at the moment - but organized modules which can be found in my <a href="https://github.com/nerdbude/NixOS-Config">[ NixOS CONFIGS ]</a>.</p>
 
-<p align="center">Software is one side of my life - hardware is the other. I love to build mechanical keyboards. I create a own keymap called <a href="https://github.com/nerdbude/Kyb3r_Keys"> KYB3R_KEYS </a> </p>
+<p align="center">Software is one side of my life - hardware is the other. I love to build mechanical keyboards. I create a own keymap called <a href="https://github.com/nerdbude/Kyb3r_Keys">[ KYB3R_KEYS ]</a> </p>
 
 <p align="center">
 <img src="/img/terminal.png">
